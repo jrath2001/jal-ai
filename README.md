@@ -3,7 +3,7 @@ A Machine Learning system for water quality assessment and purification approach
 
 PS Theme - "Access to Water"
 
-This github repo link is submitted to BCIC Accelathon 2 on Skillenza platform. Find the demo video and Django App code in 'Project upload.rar' on Skillenza. The RAR contains all parts of the project.
+This github repo link is submitted to BCIC Accelathon 2 on Skillenza platform. Find the Django App code in 'Project upload.rar' on Skillenza. The RAR contains all parts of the project.
 
 Team Members - Abhinandan Mohanty, Jyotisman Rath, Someet Sahoo, Ayush Chaturvedi
 
