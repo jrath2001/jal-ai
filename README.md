@@ -1,4 +1,4 @@
-# Jal.I
+# Jal.AI
 A Machine Learning system for water quality assessment and purification approach (by Team Hackers_ICT)
 
 PS Theme - "Access to Water"
